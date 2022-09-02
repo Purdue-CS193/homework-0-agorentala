@@ -1,3 +1,10 @@
+# Anish Gorentala's First CS193 Homework
+
+## Some of my favorite things about CS193
+- An excuse to mess around with the Linux terminal during class
+- Gives me a reason to learn to actually use Vim instead of forcefully sticking with nano
+- Makes my git commit history look more aesthetically pleasing
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
